@@ -52,5 +52,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'coffee-script-source', '1.8.0'
 
 group :production do
-  gem 'pg', '0.20.0'
+  gem 'pg', '1.0.0'
 end
